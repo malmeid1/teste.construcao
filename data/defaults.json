@@ -1,0 +1,28 @@
+{
+  "presets": [
+    {
+      "label": "Pintura externa",
+      "scope": "Lavagem, preparo de superfície, selador e pintura externa com 2 demãos."
+    },
+    {
+      "label": "Textura rolada",
+      "scope": "Preparação de base e aplicação de textura rolada com acabamento uniforme."
+    },
+    {
+      "label": "Grafiato",
+      "scope": "Preparação de base e aplicação de grafiato com acabamento conforme padrão escolhido."
+    },
+    {
+      "label": "Selador",
+      "scope": "Aplicação de selador/fundo para regularização da absorção da parede."
+    },
+    {
+      "label": "Impermeabilizante",
+      "scope": "Aplicação de impermeabilizante com 2 demãos e acabamento técnico."
+    },
+    {
+      "label": "Remoção",
+      "scope": "Remoção de pintura/revestimento existente e limpeza da superfície."
+    }
+  ]
+}

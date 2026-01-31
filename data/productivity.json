@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "pintura_externa",
+      "label": "Pintura externa",
+      "m2_day_worker": 100.0
+    },
+    {
+      "id": "textura_rolada",
+      "label": "Textura rolada",
+      "m2_day_worker": 45.0
+    },
+    {
+      "id": "grafiato",
+      "label": "Grafiato",
+      "m2_day_worker": 40.0
+    },
+    {
+      "id": "selador",
+      "label": "Selador",
+      "m2_day_worker": 120.0
+    },
+    {
+      "id": "impermeabilizante",
+      "label": "Impermeabilizante",
+      "m2_day_worker": 80.0
+    },
+    {
+      "id": "remocao",
+      "label": "Remoção",
+      "m2_day_worker": 35.0
+    }
+  ]
+}
