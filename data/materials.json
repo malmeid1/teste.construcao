@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "id": "tinta_externa",
+      "label": "Tinta acrílica externa",
+      "yield_m2_per_l": 8.0,
+      "loss_pct": 0.15,
+      "packages": [
+        {"size_l": 18.0, "price": 450.0},
+        {"size_l": 3.6, "price": 120.0}
+      ]
+    },
+    {
+      "id": "selador",
+      "label": "Selador acrílico",
+      "yield_m2_per_l": 10.0,
+      "loss_pct": 0.12,
+      "packages": [
+        {"size_l": 18.0, "price": 280.0},
+        {"size_l": 3.6, "price": 90.0}
+      ]
+    },
+    {
+      "id": "textura_rolada",
+      "label": "Textura rolada",
+      "consumption_kg_m2": 2.0,
+      "loss_pct": 0.18,
+      "bag_kg": 25.0,
+      "price_bag": 85.0
+    },
+    {
+      "id": "grafiato",
+      "label": "Grafiato",
+      "consumption_kg_m2": 3.0,
+      "loss_pct": 0.2,
+      "bag_kg": 25.0,
+      "price_bag": 95.0
+    },
+    {
+      "id": "impermeabilizante",
+      "label": "Impermeabilizante",
+      "yield_m2_per_l": 6.0,
+      "loss_pct": 0.15,
+      "packages": [
+        {"size_l": 18.0, "price": 520.0},
+        {"size_l": 3.6, "price": 150.0}
+      ]
+    },
+    {
+      "id": "remocao",
+      "label": "Removedor/decapante",
+      "rate_per_m2": 0.05,
+      "pack_size": 1.0,
+      "pack_unit": "l",
+      "pack_price": 45.0
+    }
+  ],
+  "supplies": [
+    {
+      "label": "Fita crepe 48mm",
+      "rate_per_m2": 0.15,
+      "pack_size": 50,
+      "pack_unit": "m",
+      "pack_price": 18.0
+    },
+    {
+      "label": "Lona/plástico proteção",
+      "rate_per_m2": 0.35,
+      "pack_size": 20,
+      "pack_unit": "m²",
+      "pack_price": 25.0
+    },
+    {
+      "label": "Lixa (un)",
+      "rate_per_m2": 0.08,
+      "pack_size": 1,
+      "pack_unit": "folha",
+      "pack_price": 2.5
+    },
+    {
+      "label": "Rolo de pintura (un)",
+      "rate_per_m2": 0.0067,
+      "pack_size": 1,
+      "pack_unit": "rolo",
+      "pack_price": 35.0
+    }
+  ]
+}
